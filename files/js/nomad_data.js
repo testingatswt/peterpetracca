@@ -1,4 +1,4 @@
-$.get( "../files/bin/var/www/html/data/whereamii.html", function( data ) {
+$.get( "../files/bin/whereamii.html", function( data ) {
 // var href =  $('<div>'+data+'</div>').map(function(index) {
 //     // this callback function will be called once for each matching element
 //     return $(this).find('a').attr('href');

@@ -8,7 +8,7 @@ const fs = require('fs');
 // URL to get
 const NOMAD_URL = 'https://nomadlist.com/petracca';
 // Location to write
-const save = '../files/bin/var/www/html/data/whereamii.html'
+const save = 'whereamii.html'
 // Selector to find
 const selector = '.location';
 
